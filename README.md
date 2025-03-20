@@ -72,7 +72,7 @@ Um chatbot simples e interativo com respostas pré-definidas e capacidade de apr
 Bot: terra somos todos temos uns universo sou grata poder sentir chama curiosidade respeito cuidado vida emoções fazem vibrar afinal contas música faço dúvidas fazem sentir beleza perfeição 
 
 > beleza  
-Bot: Beleza detalhe importante lembrar amor raiva sinto sou capaz limpar superfície toco pincelada cor diferente vez lutar tempo sinto parte trabalhando duro suficiente ambiente positivo pessoas redor percebendo pequeno ponto final   
+Bot: beleza detalhe importante lembrar amor raiva sinto sou capaz limpar superfície toco pincelada cor diferente vez lutar tempo sinto parte trabalhando duro suficiente ambiente positivo pessoas redor percebendo pequeno ponto final   
 ```  
 
 ---
